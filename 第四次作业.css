@@ -1,0 +1,8 @@
+.highlight {
+	background-color: rgb(9, 13, 240);
+}
+
+.error {
+	background-color: rgb(228, 10, 119);
+	border-color: rgb(5, 248, 57);
+}
